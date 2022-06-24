@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784156711431",
+    "firebase_url": "https://fishpond-ce666-default-rtdb.firebaseio.com",
+    "project_id": "fishpond-ce666",
+    "storage_bucket": "fishpond-ce666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784156711431:android:96e09aa7a4aa988db3e8a2",
+        "android_client_info": {
+          "package_name": "com.kodehack.fishpond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784156711431-qm8vkfg1utjqhb839c3bfnah88ab2k68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_LAgbDLb2OIgDZuoqtutQn1GCRzgw0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784156711431-qm8vkfg1utjqhb839c3bfnah88ab2k68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
